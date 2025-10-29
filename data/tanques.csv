@@ -1,0 +1,190 @@
+TAG;SETOR;IDENTIFICAÇÃO;MATERIAL;CRITICIDADE
+TQ082;E.T.A.;Tanque selo de água de combate à incêndio;Aço Carbono;C
+TQ085;E.T.A.;Tanque de Soda de sucção da Bomba;Fibra;B
+TQ086;E.T.A.;Tanque de água tratada das bombas;Aço Carbono;C
+TQ087;E.T.A.;Tanque de água bomba de vácuo;Aço Carbono;B
+TQ001;Caldeira;Tanque de água Clarificada (Tratada Fuligem);Aço Carbono;B
+TQ002;Caldeira;Tanque de água de selagem do Filtro Prensa VLC;Aço Carbono;B
+TPZ1;Caldeira;Tanque de Polímero Nº01 VLC;Aço Carbono;C
+CAF1;Caldeira;Decantador de Fuligem;Aço Carbono/ Inox;A
+TDC2;Caldeira;Tanque de Descarga de fundo/contínuo Caldeira Zanini;Aço Carbono;B
+TDC1;Caldeira;Tanque de Descarga de fundo Caldeira Dedini;Aço Carbono;B
+TQ006;Caldeira;Tanque de selo caldeira Zanini;Aço Carbono;B
+LGD1;Caldeira;Lavador de Gases Caldeira Dedini;Aço Inox;A
+TQ007;Caldeira;Tanque de dosagem de produto quimico caldeira Zanini;Aço Inox;C
+LGZ1;Caldeira;Lavador de Gases Caldeira Zanini;Aço Inox;A
+TSF1;Caldeira;Tanque de selo VLC;Aço Carbono;B
+TQ008;Caldeira;Taque de dosagem de produtos quimico;Aço Inox;B
+TAA1;Carregamento de álcool;Tanque de Armazenagem etanol 01 - 5000 m³;Aço Carbono;A
+TAA2;Carregamento de álcool;Tanque de Armazenagem etanol 02 - 5000 m³;Aço Carbono;A
+TAA3;Carregamento de álcool;Tanque de Armazenagem etanol 03 - 5000 m³;Aço Carbono;A
+TAA4;Carregamento de álcool;Tanque de Armazenagem etanol 04 - 10000 m³;Aço Carbono;A
+TAA5;Carregamento de álcool;Tanque de Armazenagem etanol 05 - 5000 m³;Aço Carbono;A
+TAA6;Carregamento de álcool;Tanque de Armazenagem etanol 06 - 20000 m³;Aço Carbono;A
+TAA9;Carregamento de álcool;Tanque de Armazenagem etanol 07 - 20000 m³;Aço Carbono;A
+TCT1;Cogeração;TANQUE DE  CONDENSADO P/ DESAERADOR CALDEIRA DEDINI;Aço Carbono;C
+TQ010;Cogeração;Tanque de óleo da turbina do gerador Nº01;Aço Carbono;A
+TQ011;Cogeração;Tanque de óleo da turbina do gerador Nº02;Aço Carbono;A
+COM1;Cogeração;Compressor 01;Aço Carbono;A
+COM2;Cogeração;Compressor 02;Aço Carbono;A
+COM3;Cogeração;Compressor 03;Aço Carbono;A
+TQ009;Cogeração;TANQUE DE AGUA CONDENSADA COOGERAÇÃO;Aço Carbono;B
+DOF1;Destilaria;Tanque decantador de óleo Fúsel DF-401 (Dedini);Aço Carbono;B
+TVB1;Destilaria;Tanque Pulmão de Vinho Bruto;Aço Carbono;C
+TQE1;Destilaria;Tanque de alcool de segunda (Fraco);Aço Carbono;B
+TQE1;Destilaria;Tanque Etanol 2 D-122 ( Álcool Neutro);Aço Carbono;A
+TME6;Destilaria;Tanque de medição de etanol extra fino D-301A;Aço Carbono;A
+TME7;Destilaria;Tanque de medição de etanol extra fino D-301B;Aço Carbono;A
+DOR10;Destilaria;Cuba N°1;Aço Carbono;A
+DOR9;Destilaria;Cuba N°2;Aço Carbono;A
+DOR8;Destilaria;Cuba N°3;Aço Carbono;A
+TQV4;Destilaria;Tanque vinhaça;Fibra;B
+DOR4;Destilaria;Tanque Estocagem MEL N°1;Aço Carbono;A
+DOR5;Destilaria;Tanque Estocagem MEL N°2;Aço Carbono;A
+DOR6;Destilaria;Tanque Estocagem MEL N°3;Aço Carbono;A
+DOR2;Destilaria;Dorna Volante N°1;Aço Carbono;A
+DOR3;Destilaria;Dorna Volante N°2;Aço Carbono;A
+DOR11;Destilaria;Dorna N°1;Aço Carbono;A
+DOR12;Destilaria;Dorna N°2;Aço Carbono;A
+DOR13;Destilaria;Dorna N°3;Aço Carbono;A
+DOR14;Destilaria;Dorna N°4;Aço Carbono;A
+DOR15;Destilaria;Dorna N°5;Aço Carbono;A
+DOR16;Destilaria;Dorna N°6;Aço Carbono;A
+DOR17;Destilaria;Dorna N°7;Aço Carbono;A
+DOR18;Destilaria;Dorna N°8;Aço Carbono;A
+TAN1;Destilaria;       Tanque Antiespumante;Inox;B
+CAX0002;Destilaria;Caixa de Água Bruta;Aço Carbono;C
+TQA3;Destilaria;Tanque de ácido Sulfurico;Aço Carbono;B
+TAG1;Destilaria;Tanque de água Potável Nº01;Aço Carbono;B
+TAG2;Destilaria;Tanque de água Potável Nº02;Aço Carbono;B
+TAG3;Destilaria;Tanque de água Potável Nº03;Aço Carbono;B
+TQ012;Destilaria;Caixa de Água Bruta Clarificada (Tratada);Aço Carbono;C
+TQ013;Destilaria;Tanque para diluição de Soda para regeneração das resinas (Anidro);Inox;B
+TQ014;Destilaria;Tanque para diluição de Ácido para regeneração das resinas (Anidro);Inox;B
+TFG1;Destilaria;Tanque Flegmaça (Codistil);Inox;C
+TPM1;Destilaria;Tanque de MEG (Anidro);Aço Carbono;B
+TME1;Destilaria;Tanque medidor de álcool Nº01 (Hidratado);Aço Carbono;A
+TME2;Destilaria;Tanque medidor de álcool Nº02 (Anidro);Aço Carbono;A
+TME3;Destilaria;Tanque medidor de álcool Nº03 (Anidro);Aço Carbono;A
+TME4;Destilaria;Tanque medidor de álcool Nº04 (Hidratado);Aço Carbono;A
+TME5;Destilaria;Tanque medidor de álcool Nº05 (Hidratado);Aço Carbono;A
+TRF1;Destilaria;Tanque de óleo Fúsel para carregamento (Codistil/Dedini);Aço Carbono;B
+TDS1;Destilaria;Tanque de Soda para controle de PH do álcool (Codistil/Dedini);Fibra;B
+TRA1;E.T.A.;Tanque de ácido Cloridrico 01;Fibra;B
+TAD2;E.T.A.;Tanque de ácido Cloridrico 02;Fibra;B
+TSC1;E.T.A.;Tanque de Soda 01;Fibra;B
+TSC2;E.T.A.;Tanque de Soda 02;Fibra;B
+TQD1;E.T.A.;Tanque de água desmineralizada;Aço Carbono;B
+TQA0001;E.T.A.;Tanque de água Clarificada Nº01;Aço Carbono;C
+TQA0002;E.T.A.;Tanque de água Clarificada Nº02;Aço Carbono;C
+TQF;E.T.A.;Tanque floculador;Aço Carbono;A
+TAG1;E.T.A.;Tanque de água potável 01;Aço Carbono;C
+TAG2;E.T.A.;Tanque de água potável 02;Aço Carbono;C
+TSLCR;Evaporação;Tanque de selo liquidação das caixas Roberts;Aço Carbono;B
+FLT1;Evaporação;Tanque Flotador Nº01;Aço Carbono;A
+FLT2;Evaporação;Tanque Flotador Nº02;Aço Carbono;A
+TSCCR2;Evaporação;Tanque de Selo de Condensado da Caixa Robert Nº02;Aço Carbono;B
+TSCCR4;Evaporação;Tanque de Selo de Condensado da Caixa Robert Nº04;Aço Carbono;B
+TDE1;Evaporação;Tanque de Rejeito;Aço Carbono;C
+TXN0001;Evaporação;Tanque de xarope não flotado;Aço Carbono;A
+TCG1/BBA230;Evaporação;Tanque de condensado geral Nº01;Aço Carbono;B
+TCG2/BBA381;Evaporação;Tanque de condensado geral Nº02;Aço Carbono;B
+TCLTFX;Evaporação;Tanque de condensado da lavagem de tela do filtro de Xarope;Aço Carbono;B
+TXF;Evaporação;Tanque de Xarope Filtrado;Aço Carbono;B
+TQ03;Evaporação;Tanque de ácido fosfórico Nº01;Aço Inox;A
+TQ04;Evaporação;Tanque de ácido fosfórico Nº02;Aço Inox;A
+TAV;Evaporação;Tanque de alivio de vapor;Aço Carbono;B
+TSL1;Evaporação;Tanque de Soda;Iaço Inox;A
+TQAT1;Evaporação;Tanque de retorno água da torre;Aço Carbono;C
+TAA7;Evaporação;Tanque de água para os filtros de xarope;Aço Carbono;B
+TQEC;Evaporação;Tanque de condensado escape para Caldeira;Aço Carbono;B
+TCA-01;Evaporação;Tanque de Caldo Pré-Evaporado;Aço Carbono;A
+TQALC1;Fábrica de Açúcar;Tanque de água condensada de limpeza Nº01 dos Cozedores;Aço Carbono;C
+TQALC2;Fábrica de Açúcar;Tanque de água condensada de limpeza Nº02 dos Cozedores;Aço Carbono;C
+SMF1;Fábrica de Açúcar;Sementeira Horizontal;Aço Carbono;A
+TQ0003;Fábrica de Açúcar;Tanque de Condensado da Fábrica;Aço Carbono;B
+TQMRC;Fábrica de Açúcar;Tanque de Mel Rico Concentrado;Aço Carbono;A
+TQMPC;Fábrica de Açúcar;Tanque de Mel Pobre Concentrado;Aço Carbono;A
+CMF1;Fábrica de Açúcar;Caixa de Mel final;Aço Inox;B
+CMP1;Fábrica de Açúcar;Caixa de Mel Rico Cozedores;Aço Carbono;B
+CMP2;Fábrica de Açúcar;Caixa de Mel Pobre Cozedores;Aço Carbono;B
+CMR1;Fábrica de Açúcar;Caixa de Mel Pobre Concentrado 01;Aço Carbono;B
+CMR2;Fábrica de Açúcar;Caixa de Mel Rico Concentrado 01;Aço Carbono;B
+CXF1;Fábrica de Açúcar;Caixa de Xarope Fábrica;Aço Inox;B
+TQV3;Fábrica de Açúcar;Tanque de condensado vegetal dos aquecedores - V2;Aço Carbono;C
+TAF1;Tratamento de caldo;Tanque de ácido fosfórico;Aço Inox;C
+TBSC1;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº01;Aço Carbono;B
+TBSC2;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº02;Aço Carbono;B
+TBSC3;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº03;Aço Carbono;B
+TBSC4;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº04;Aço Carbono;B
+TBSC5;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº05;Aço Carbono;B
+TBSC6;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº06;Aço Inox;B
+TBSC7;Fábrica de Açúcar;Tanque Balão de Selo do Cozedor Nº07;Aço Carbono;B
+TQP3;Fábrica de Açúcar;Tanque de água Potável;Aço Carbono;C
+TQP1;Fábrica de Açúcar;Tanque de Mel Pobre Diluído;Aço Carbono;B
+TMRD;Fábrica de Açúcar;Tanque de Mel Rico Diluído;Aço Carbono;B
+CMA1;Fábrica de Açúcar;Cristalizador Horizontal Nº01;Aço Carbono;A
+CMA2;Fábrica de Açúcar;Cristalizador Horizontal Nº02;Aço Carbono;A
+CMA3;Fábrica de Açúcar;Cristalizador Horizontal Nº03;Aço Carbono;A
+CMA4;Fábrica de Açúcar;Cristalizador Horizontal Nº04;Aço Carbono;A
+CMA5;Fábrica de Açúcar;Cristalizador Horizontal Nº05;Aço Carbono;A
+CMA6;Fábrica de Açúcar;Cristalizador Horizontal Nº06;Aço Inox;A
+TQR1;Fábrica de Açúcar;Tanque de Mel Rico;Aço Carbono;A
+TQP1;Fábrica de Açúcar;Tanque de Mel Pobre;Aço Carbono;A
+MGM3;Fábrica de Açúcar;Magmeira;Aço Carbono;A
+TBSC6;Fábrica de Açúcar;Tanque Balão de Selo Secundário do Cozedor Nº06;Aço Inox;B
+TBSC7;Fábrica de Açúcar;Tanque Balão de Selo Secundário do Cozedor Nº07;Aço Carbono;B
+CXAO1;Moenda;Caixa separadora de água e óleo;Aço Inox;B
+TLPM;Moenda;Tanque de Agua Lavagem Do Piso;Aço Carbono;B
+TQM2;Moenda;Tanque de caldo primario;Aço Inox;A
+TQM1;Moenda;Tanque de caldo secundario;Aço Inox;A
+TAAC;Moenda;Tanque de assepsia das peneiras;Aço Carbono;A
+TOUM;Moenda;Tanque de óleo usado;Aço Carbono;C
+BRMLD1;Moenda;Balão de água de refrigeração dos mancais 1º Terno Lado Direito;Aço Inox;A
+BRMLE1;Moenda;Balão de água de refrigeração dos mancais 1º Terno Lado Esquerdo;Aço Carbono;A
+BRMLD2;Moenda;Balão de água de refrigeração dos mancais 2º Terno Lado Direito;Aço Carbono;A
+BRMLE2;Moenda;Balão de água de refrigeração dos mancais 2º Terno Lado Esquerdo;Aço Inox;A
+BRMLD3;Moenda;Balão de água de refrigeração dos mancais 3º Terno Lado Direito;Aço Carbono;A
+BRMLE3;Moenda;Balão de água de refrigeração dos mancais 3º Terno Lado Esquerdo;Aço Inox;A
+BRMLD4;Moenda;Balão de água de refrigeração dos mancais 4º Terno Lado Direito;Aço Carbono;A
+BRMLE4;Moenda;Balão de água de refrigeração dos mancais 4º Terno Lado Esquerdo;Aço Inox;A
+BRMLD5;Moenda;Balão de água de refrigeração dos mancais 5º Terno Lado Direito;Aço Carbono;A
+BRMLE5;Moenda;Balão de água de refrigeração dos mancais 5º Terno Lado Esquerdo;Aço Inox;A
+GAM1;Moenda;Gamelão 1º terno;Aço Inox;B
+GAM2;Moenda;Gamelão 2º terno;Aço Inox;B
+GAM3;Moenda;Gamelão 3º terno;Aço Inox;B
+GAM4;Moenda;Gamelão 4º terno;Aço Inox;B
+GAM5;Moenda;Gamelão 5º terno;Aço Inox;B
+TQ165;Moenda;Tanque Condensado de Embebição;Aço Carbono;C
+TAQ1;Tratamento de caldo;Tanque de Caldo Aquecido;Aço Inox;A
+TDR1;Tratamento de caldo;Tanque de Caldo Resfriado;Aço Inox;B
+TCC1;Tratamento de caldo;Tanque de Caldo Clarificado;Aço Carbono;A
+TQ173;Tratamento de caldo;Tanque Retorno do Multijato;Aço Carbono;B
+TQM2;Tratamento de caldo;Tanque pulmão de caldo fabrica;Aço Carbono;A
+TQM1;Tratamento de caldo;Tanque pulmão caldo destilaria;Aço Carbono;A
+TCS1;Tratamento de caldo;Tanque de caldo sulfitado;Aço Inox;A
+TCR6;Tratamento de caldo;Tanque de liquidação de caldo aquecedores;Aço Carbono;B
+TCD01;Tratamento de caldo;Tanque de caldo dosado N°01;Aço Inox;B
+TCD02;Tratamento de caldo;Tanque de caldo dosado N°02;Aço Inox;B
+TQ181;Tratamento de caldo;Tanque de soda dos trocadores de placa;Aço Inox;C
+TPP1;Tratamento de caldo;Tanque preparo de polimero;Aço Carbono;C
+TCH1;Tratamento de caldo;Tanque tratador de cal N°01;Aço Carbono;C
+TCH2;Tratamento de caldo;Tanque tratador de cal N°02;Aço Carbono;C
+TQ186;Tratamento de caldo;Tanque polimero N°01 Filtro prensa;Aço Carbono;B
+TQ187;Tratamento de caldo;Tanque polimero N°02 Filtro prensa;Aço Carbono;B
+TQLA;Tratamento de caldo;Tanque de água lavagem dos Filtro prensa;Aço Carbono;C
+TCH2;Tratamento de caldo;Tanque de cal para processo  N°02;Aço Carbono;C
+TCF3;Tratamento de caldo;Tanque de caldo filtrado dos filtro prensa;Aço Inox;A
+TCFF2;Tratamento de caldo;Tanque de água coluna barometrica filtro rotativo;Aço Carbono;B
+TCFF1;Tratamento de caldo;Tanque de caldo filtrado do filtro rotativo;Aço Carbono;B
+TQ196;Tratamento de caldo;Tanque de lodo Filtro prensa;Aço Carbono;B
+TDP1;Tratamento de caldo;Tanque de polimero N°01;Aço Inox;A
+TDP2;Tratamento de caldo;Tanque de polimero N°02;Aço Inox;A
+TQL1;Tratamento de caldo;Tanque de lodo Filtro rotativo;Aço Carbono;B
+DEC1;Tratamento de caldo;Decantador de Caldo N°01;Aço Carbono;A
+DEC2;Tratamento de caldo;Decantador de Caldo N°02;Aço Carbono;A
+DEC3;Tratamento de caldo;Decantador de Caldo N°03;Aço Carbono;A
+DEC4;Tratamento de caldo;Decantador de Caldo N°04;Aço Carbono;A
+DEC5;Tratamento de caldo;Decantador de Caldo N°05;Aço Carbono;A
+TQ205;Tratamento de caldo;Tanque de lodo decantador N°02;Aço Carbono;B
+TQSA0001;Tratamento de caldo;Tanque de Soda caustica diluida assepsia turbo filtros;Aço Inox;C
